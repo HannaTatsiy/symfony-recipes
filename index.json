@@ -1,7 +1,7 @@
 {
   "recipes": {
     "atatsiy/statsd-bundle": [
-      "1.0"
+      "1.0.0"
     ]
   },
   "branch": "main",
