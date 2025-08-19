@@ -7,8 +7,8 @@
   "branch": "main",
   "is_contrib": true,
   "_links": {
-    "repository": "github.com/HannaTatsiy/symfony-recipes/",
-    "origin_template": "{package}:{version}@github.com/HannaTatsiy/symfony-recipes:main",
+    "repository": "github.com/HannaTatsiy/statsd-bundle/",
+    "origin_template": "{package}:{version}@github.com/HannaTatsiy/statsd-bundle:main",
     "recipe_template": "https://api.github.com/repos/HannaTatsiy/symfony-recipes/contents/statsd.bundle.1.0.0.json"
   }
 }
