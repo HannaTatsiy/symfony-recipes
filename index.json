@@ -1,7 +1,7 @@
 {
   "recipes": {
     "hanna-tatsiy/statsd-bundle": [
-      "1.0.0"
+      "1.0"
     ]
   },
   "branch": "main",
@@ -9,6 +9,6 @@
   "_links": {
     "repository": "github.com/HannaTatsiy/statsd-bundle/",
     "origin_template": "{package}:{version}@github.com/HannaTatsiy/statsd-bundle:main",
-    "recipe_template": "https://api.github.com/repos/HannaTatsiy/symfony-recipes/contents/statsd.bundle.1.0.0.json"
+    "recipe_template": "https://api.github.com/repos/HannaTatsiy/symfony-recipes/contents/statsd.bundle.1.0.json"
   }
 }
