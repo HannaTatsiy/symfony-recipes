@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "atatsiy/statsd-bundle": [
+    "hanna-tatsiy/statsd-bundle": [
       "1.0.0"
     ]
   },
