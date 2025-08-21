@@ -1,6 +1,6 @@
 {
   "manifests": {
-    "hanna-tatsiy/statsd-bundle": {
+    "HannaTatsiy/statsd-bundle": {
       "manifest": {
         "bundles": {
           "StatsdBundle\\StatsdBundle": ["all"]
